@@ -1,2 +1,2 @@
 # htmlclass1
-This a simple html template.
+https://mdsalahuddin20.github.io/htmlclass1/
